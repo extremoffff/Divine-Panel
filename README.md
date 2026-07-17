@@ -13,8 +13,8 @@ orders.
 
 ## Download
 
-(All release files, including older versions, are on the
-**[Releases](https://github.com/extremoffff/Divine-Panel/releases)** page.)
+All release files, including older versions, are on the
+**[Releases](https://github.com/extremoffff/Divine-Panel/releases)** page.
 
 This repository hosts release builds only — no source code is published here.
 
