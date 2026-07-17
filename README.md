@@ -1,4 +1,4 @@
-# Divine Panel 😜
+# Divine Panel
 
 [![Download Latest Release](https://img.shields.io/github/v/release/extremoffff/Divine-Panel?label=Download&style=for-the-badge)](https://github.com/extremoffff/Divine-Panel/releases/latest)
 
