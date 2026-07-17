@@ -16,3 +16,9 @@ orders.
 Grab the latest build from the **[Releases](https://github.com/extremoffff/Divine-Panel/releases/latest)** page.
 
 This repository hosts release builds only — no source code is published here.
+
+## Resources
+
+- 🌐 Website: [divinepanel.com](https://divinepanel.com)
+- 🤖 Telegram bot (subscriptions): [@divinepanel_bot](https://t.me/divinepanel_bot)
+- 📢 Telegram channel: [@divinesteam](https://t.me/divinesteam)
