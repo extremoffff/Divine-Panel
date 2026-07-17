@@ -4,13 +4,13 @@
 
 ## Способ 1 — через кнопку в боте
 
-В главном меню [@divinepanel_bot](https://t.me/divinepanel_bot) нажмите **Скачать**. Кнопка ведёт на страницу репозитория [github.com/extremoffff/Divine-Panel](https://github.com/extremoffff/Divine-Panel).
+В главном меню [@divinepanel\_bot](https://t.me/divinepanel_bot) нажмите **Скачать**. Кнопка ведёт на страницу репозитория [github.com/extremoffff/Divine-Panel](https://github.com/extremoffff/Divine-Panel).
 
 ## Способ 2 — напрямую
 
 Откройте [github.com/extremoffff/Divine-Panel](https://github.com/extremoffff/Divine-Panel). На странице репозитория есть кнопка-бейдж **Download** под названием — она сразу скачивает нужный архив.
 
-**[МЕСТО ДЛЯ СКРИНШОТА: страница репозитория со кнопкой Download]**
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ## Что именно скачивать
 
