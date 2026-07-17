@@ -11,7 +11,10 @@ orders.
 
 **Supported games:** CS2, Dota 2, Rust, TF2.
 
-Extract the downloaded archive anywhere and run `Launcher.exe` — that's it.
+## Download
+
+(All release files, including older versions, are on the
+**[Releases](https://github.com/extremoffff/Divine-Panel/releases)** page.)
 
 This repository hosts release builds only — no source code is published here.
 
