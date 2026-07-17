@@ -11,13 +11,7 @@ orders.
 
 **Supported games:** CS2, Dota 2, Rust, TF2.
 
-## Download
-
-**[⬇ Download DivinePanel-Setup-win64.zip](https://github.com/extremoffff/Divine-Panel/releases/latest/download/DivinePanel-Setup-win64.zip)**
-— extract anywhere and run `Launcher.exe`. That's it, no extra steps.
-
-(All release files, including older versions, are on the
-**[Releases](https://github.com/extremoffff/Divine-Panel/releases)** page.)
+Extract the downloaded archive anywhere and run `Launcher.exe` — that's it.
 
 This repository hosts release builds only — no source code is published here.
 
