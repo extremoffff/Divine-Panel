@@ -1,6 +1,6 @@
 # Divine Panel
 
-[![Download Latest Release](https://img.shields.io/github/v/release/extremoffff/Divine-Panel?label=Download&style=for-the-badge)](https://github.com/extremoffff/Divine-Panel/releases/latest)
+[![Download](https://img.shields.io/github/v/release/extremoffff/Divine-Panel?label=Download&style=for-the-badge)](https://github.com/extremoffff/Divine-Panel/releases/latest/download/DivinePanel-Setup-win64.zip)
 
 The panel lets you manage a large number of Steam accounts at once (a proxy
 is required for each).
@@ -13,7 +13,11 @@ orders.
 
 ## Download
 
-Grab the latest build from the **[Releases](https://github.com/extremoffff/Divine-Panel/releases/latest)** page.
+**[⬇ Download DivinePanel-Setup-win64.zip](https://github.com/extremoffff/Divine-Panel/releases/latest/download/DivinePanel-Setup-win64.zip)**
+— extract anywhere and run `Launcher.exe`. That's it, no extra steps.
+
+(All release files, including older versions, are on the
+**[Releases](https://github.com/extremoffff/Divine-Panel/releases)** page.)
 
 This repository hosts release builds only — no source code is published here.
 
