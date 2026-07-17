@@ -45,7 +45,7 @@
 
 Показывает балансы по всем аккаунтам на всех площадках сразу (market.csgo, Steam, Waxpeer, DMarket), в их собственной валюте, включая замороженный остаток. Список постраничный, листается кнопками под сообщением, есть общий итог по каждой валюте вверху.
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 ### /acc
 
@@ -63,7 +63,7 @@
 4. Выберите получателя — из списка своих аккаунтов, либо нажмите **Другой получатель** и введите вручную API-ключ (market.csgo) или SteamID64 (Waxpeer) стороннего получателя.
 5. Подтвердите операцию.
 
-**\[МЕСТО ДЛЯ СКРИНШОТА: диалог /transfer в боте]**
+<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 ## Дальше
 

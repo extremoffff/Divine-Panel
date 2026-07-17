@@ -2,7 +2,7 @@
 
 Вкладка **Reprice** — отдельный, независимый от P2P/DMarket механизм автоматического пересчёта цен для лотов, уже выставленных на продажу на Steam Community Market. В отличие от P2P и DMarket, здесь панель не выставляет новые лоты автоматически — она только следит за уже выставленными и переставляет их по актуальной цене.
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 ## Своя панель управления
 
