@@ -18,8 +18,12 @@ All release files, including older versions, are on the
 
 This repository hosts release builds only — no source code is published here.
 
+## Documentation
+
+Full setup and usage guide: **[divine-panel.gitbook.io/divine-docs](https://divine-panel.gitbook.io/divine-docs/)**
+
 ## Resources
 
-- 🌐 Website: [divinepanel.com](https://divinepanel.com)
+- 🌐 Website: [divine-panel.com](https://divine-panel.com)
 - 🤖 Telegram bot (subscriptions): [@divinepanel_bot](https://t.me/divinepanel_bot)
 - 📢 Telegram channel: [@divinesteam](https://t.me/divinesteam)
